@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Firegram-Raster/static/css/main.4f92c142.chunk.css",
+    "main.js": "/Firegram-Raster/static/js/main.ee56831e.chunk.js",
+    "main.js.map": "/Firegram-Raster/static/js/main.ee56831e.chunk.js.map",
+    "runtime-main.js": "/Firegram-Raster/static/js/runtime-main.8d7861e5.js",
+    "runtime-main.js.map": "/Firegram-Raster/static/js/runtime-main.8d7861e5.js.map",
+    "static/js/2.8342d35f.chunk.js": "/Firegram-Raster/static/js/2.8342d35f.chunk.js",
+    "static/js/2.8342d35f.chunk.js.map": "/Firegram-Raster/static/js/2.8342d35f.chunk.js.map",
+    "index.html": "/Firegram-Raster/index.html",
+    "precache-manifest.f5b7374911083a985796582184d844d3.js": "/Firegram-Raster/precache-manifest.f5b7374911083a985796582184d844d3.js",
+    "service-worker.js": "/Firegram-Raster/service-worker.js",
+    "static/css/main.4f92c142.chunk.css.map": "/Firegram-Raster/static/css/main.4f92c142.chunk.css.map",
+    "static/js/2.8342d35f.chunk.js.LICENSE.txt": "/Firegram-Raster/static/js/2.8342d35f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d7861e5.js",
+    "static/js/2.8342d35f.chunk.js",
+    "static/css/main.4f92c142.chunk.css",
+    "static/js/main.ee56831e.chunk.js"
+  ]
+}
